@@ -1,18 +1,8 @@
-package hackerrank;
+package org.takeuforward.array1;
 
-import java.util.Arrays;
 
+// https://takeuforward.org/data-structure/set-matrix-zero/
 public class SetMatrixZero {
-    public static void printArray(int arr[][]) {
-        for(int i=0; i<arr.length; i++) {
-            for(int j=0; j<arr[i].length; j++) {
-                System.out.print(arr[i][j] + " ");
-            }
-            System.out.println();
-        }
-        System.out.println();
-    }
-
     public static void main(String args[]) {
         //int arr[][] = {{7, 19, 3},{4, 21 , 0}};
         //int arr[][] = {{1},{0}};
@@ -25,6 +15,8 @@ public class SetMatrixZero {
         printArray(arr);
     }
 
+// Time Complexity: O(2*(N*M)), as we are traversing two times in a matrix,
+// Space Complexity: O(1).
     public static void setZeros(int matrix[][]) {
         int col0=1;
 
@@ -46,5 +38,15 @@ public class SetMatrixZero {
             if(col0==0)
                 matrix[i][0]=0;
         }
+    }
+
+    public static void printArray(int arr[][]) {
+        for(int i=0; i<arr.length; i++) {
+            for(int j=0; j<arr[i].length; j++) {
+                System.out.print(arr[i][j] + " ");
+            }
+            System.out.println();
+        }
+        System.out.println();
     }
 }
