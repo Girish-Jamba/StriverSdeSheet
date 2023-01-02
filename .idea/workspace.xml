@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec79172-6a31-46d1-bdae-49e255343962" name="Changes" comment="updating files">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/CommonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array2/CountInversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array2/FindDuplicateinAnArrayOfNPlus1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array2/FindRepeatingAndMissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array2/Merge2SortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array2/MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array2/RotateMatrixBy90Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array2/extra/LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array2/extra/LongestCommonSubsequenceString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array2/extra/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array2/extra/RotateMatrixEdges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array3/ImplementPow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array3/Search2DMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array4/FourSumFindAllCombinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array4/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array4/extra/TwoSumAllCombinations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GFG.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/takeuforward/array1/NextPermutationOptmized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/takeuforward/array1/NextPermutationOptmized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/takeuforward/array1/SetMatrixZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/takeuforward/array1/SetMatrixZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/takeuforward/array1/extra/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/takeuforward/array1/extra/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/takeuforward/array1/StockBuyAndSellWithMaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/takeuforward/array1/StockBuyAndSellWithMaxProfit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,18 +49,19 @@
       <recent name="C:\My Files\intellijProjects\StriverSdeSheet\src\org\takeuforward\array1" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.takeuforward.array4.extra" />
       <recent name="org.takeuforward.array2.extra" />
       <recent name="org.takeuforward.array2" />
       <recent name="org.takeuforward.array1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ImplementPow">
-    <configuration name="CountInversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array2.CountInversions" />
+  <component name="RunManager" selected="Application.FourSumFindAllCombinations">
+    <configuration name="FourSumFindAllCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array4.FourSumFindAllCombinations" />
       <module name="StriverSdeSheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.takeuforward.array2.*" />
+          <option name="PATTERN" value="org.takeuforward.array4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplementPow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array3.ImplementPow" />
+    <configuration name="StockBuyAndSellWithMaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array1.StockBuyAndSellWithMaxProfit" />
       <module name="StriverSdeSheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.takeuforward.array3.*" />
+          <option name="PATTERN" value="org.takeuforward.array1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array2.extra.MergeSort" />
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array4.TwoSum" />
       <module name="StriverSdeSheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.takeuforward.array2.extra.*" />
+          <option name="PATTERN" value="org.takeuforward.array4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Search2DMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array3.Search2DMatrix" />
+    <configuration name="TwoSumAllCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array4.extra.TwoSumAllCombinations" />
       <module name="StriverSdeSheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.takeuforward.array3.*" />
+          <option name="PATTERN" value="org.takeuforward.array4.extra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array2.Solution" />
+    <configuration name="org.takeuforward.array4.extra.TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array4.extra.TwoSum" />
       <module name="StriverSdeSheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.takeuforward.array2.*" />
+          <option name="PATTERN" value="org.takeuforward.array4.extra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ImplementPow" />
-        <item itemvalue="Application.Search2DMatrix" />
-        <item itemvalue="Application.CountInversions" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.FourSumFindAllCombinations" />
+        <item itemvalue="Application.StockBuyAndSellWithMaxProfit" />
+        <item itemvalue="Application.TwoSumAllCombinations" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.org.takeuforward.array4.extra.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671979930644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updating files">
+      <created>1672473452475</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672473452475</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +194,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/org/takeuforward/array1/StockBuyAndSellWithMaxProfit.java</url>
-          <line>18</line>
+          <line>19</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -264,13 +257,21 @@
           <line>16</line>
           <option name="timeStamp" value="99" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/takeuforward/array4/extra/TwoSumAllCombinations.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/takeuforward/array4/FourSumFindAllCombinations.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="current.get(1)" />
-        <watch expression="next.get(0)" />
-        <watch expression="matrix[mid/m][mid%m]" />
+        <watch expression="map.get(target-nums[i]" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

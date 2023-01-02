@@ -8,6 +8,7 @@ public class StockBuyAndSellWithMaxProfit {
 
     public static void main(String args[]) {
         ArrayList<Integer> lsPrices = new ArrayList<Integer>(Arrays.asList(7,1,5,3,6,4));
+        System.out.println("Maximum Profit is : " + maximumProfit1(lsPrices));
         System.out.println("Maximum Profit is : " + maximumProfit2(lsPrices));
     }
 
