@@ -15,6 +15,8 @@ public class FourSumFindAllCombinations {
         System.out.println(fourSum3(nums, target, nums.length));
     }
 
+// Time Complexity: O(N LOG N + N^3) Sorting the array takes N log N and three nested loops will be taking N³.
+// Space Complexity: O(1)
     public static String fourSum3(int[] arr, int target, int n) {
         if(arr==null || arr.length==0)
             return "No";
