@@ -10,7 +10,7 @@ import static org.takeuforward.CommonUtils.printArray;
 // Space Complexity: O(1)
 public class NextPermutationOptmized {
     public static void main(String args[]) {
-        int nums[] = {1,5,1};
+        int nums[] = {1,3,2};
         printArray(nums);
         nextPermutation(nums);
         printArray(nums);

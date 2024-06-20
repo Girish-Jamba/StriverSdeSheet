@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec79172-6a31-46d1-bdae-49e255343962" name="Changes" comment="updating files">
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array4/LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array4/LongestSubArrayWithSumX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array4/LongestSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array4/extra/PrintSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/array4/extra/PrintSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/takeuforward/gs/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/takeuforward/array4/FourSumFindAllCombinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/takeuforward/array4/FourSumFindAllCombinations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/takeuforward/array1/NextPermutationOptmized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/takeuforward/array1/NextPermutationOptmized.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +53,13 @@
       <recent name="org.takeuforward.array1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestSubArrayWithSumX">
-    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array4.LongestConsecutiveSequence" />
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="CitiR2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.takeuforward.CitiR2" />
       <module name="StriverSdeSheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.takeuforward.array4.*" />
+          <option name="PATTERN" value="org.takeuforward.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubArrayWithSumX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array4.LongestSubArrayWithSumX" />
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.takeuforward.Demo" />
       <module name="StriverSdeSheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.takeuforward.array4.*" />
+          <option name="PATTERN" value="org.takeuforward.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array4.LongestSubstring" />
+    <configuration name="MorganR1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.takeuforward.MorganR1" />
       <module name="StriverSdeSheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.takeuforward.array4.*" />
+          <option name="PATTERN" value="org.takeuforward.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array4.extra.PrintSubArray" />
+    <configuration name="NextPermutationOptmized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array1.NextPermutationOptmized" />
       <module name="StriverSdeSheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.takeuforward.array4.extra.*" />
+          <option name="PATTERN" value="org.takeuforward.array1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.takeuforward.array4.extra.PrintSubSequence" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.takeuforward.gs.Solution" />
       <module name="StriverSdeSheet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.takeuforward.array4.extra.*" />
+          <option name="PATTERN" value="org.takeuforward.gs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestSubArrayWithSumX" />
-        <item itemvalue="Application.LongestSubstring" />
-        <item itemvalue="Application.PrintSubSequence" />
-        <item itemvalue="Application.PrintSubArray" />
-        <item itemvalue="Application.LongestConsecutiveSequence" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.MorganR1" />
+        <item itemvalue="Application.CitiR2" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.NextPermutationOptmized" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672677916996</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updating files">
+      <created>1672842799646</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672842799646</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +288,16 @@
           <url>file://$PROJECT_DIR$/src/org/takeuforward/array4/LongestSubArrayWithSumX.java</url>
           <line>28</line>
           <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/takeuforward/array1/NextPermutationOptmized.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/org/takeuforward/gs/Solution.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="126" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
